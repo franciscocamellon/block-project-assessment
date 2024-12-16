@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "bold-red-sandwich",
+    "slug": "snack-701dde85-9ae9-439e-a25f-61e371951df2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+	"extra": {
+      "REACT_APP_PRIVATE_API_KEY": "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjMDMzOThlNGVmNjdkZDY1NDE5NjdhMWIzMGU3ZDMzNCIsIm5iZiI6MTcyOTUyMDU2OC44MDkyMjMsInN1YiI6IjY2OWVmZDVkMWU3YjBlOGJmNWRkM2JhOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ._xjTLCrE0EOK0x8o54Fye-nHtWGUfL4eA_6P3g3fE-c"
+    }
+  }
+}

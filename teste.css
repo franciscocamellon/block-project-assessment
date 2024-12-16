@@ -1,0 +1,15 @@
+:root {
+  --primary: #001325;
+  --surfaceTint: #45617e;
+  --onPrimary: #ffffff;
+  --primaryContainer: #15334e;
+  --onPrimaryContainer: #a6c2e4;
+  --secondary: #21d5a9;
+  --onSecondary: #ffffff;
+  --secondaryContainer: #8fd4ad;
+  --onSecondaryContainer: #003e27;
+  --tertiary: #01b4e4;
+  --onTertiary: #FFFFF;
+  --tertiaryContainer: #2ac0ef;
+  --onTertiaryContainer: #002a38;
+}
